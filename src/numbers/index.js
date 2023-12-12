@@ -22,31 +22,3 @@ module.exports = {
   sum,
   comboSum
 }
-
-// describe('Strings module', () => {
-
-//   test('Split a string on the given delimeter', () => {
-//     const split = strings.split('a-new-string', '-')
-//     expect(split.length).toEqual(3)
-//     expect(split[0]).toBe('a')
-//     expect(split[1]).toBe('new')
-//     expect(split[2]).toBe('string')
-//   })
-
-const split = (string, delimeter) => {
-  return split(string, delimeter)
-}
-
-const pairs = () => {
-
-}
-
-const reversed = () => {
-
-}
-
-module.exports = {
-  split,
-  pairs,
-  reversed
-}
